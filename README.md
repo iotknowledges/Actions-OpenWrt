@@ -122,6 +122,7 @@ git clone https://github.com/P3TERX/xxx package/xxx
 - [Cisco](https://www.cisco.com/)
 - [OpenWrt](https://github.com/openwrt/openwrt)
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [OpenWrt Buildroot – Installation on macOS](https://openwrt.org/docs/guide-developer/buildroot.exigence.macosx)
 
 ## License
 
